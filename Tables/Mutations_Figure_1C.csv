@@ -1,0 +1,34 @@
+Gene,Mut,FREQ,Sample
+TGFBR2,C421Y,0.67,Second biopsy
+TGFBR2,C421Y,0.93,Xenograft
+TGFBR2,C421Y,1,Cell line
+TP53,R282Q,0.43,Second biopsy
+TP53,R282Q,0.52,Xenograft
+TP53,R282Q,0.45,Cell line
+ZNF384,A353S,0.38,Second biopsy
+ZNF384,A353S,0.52,Xenograft
+ZNF384,A353S,0.75,Cell line
+KEAP1,G476W,0.34,First biopsy
+KEAP1,G476W,0.69,Second biopsy
+KEAP1,G476W,0.98,Xenograft
+KEAP1,G476W,0.97,Cell line
+FAT4,P2581T,0.28,First biopsy
+FAT4,P2581T,0.67,Second biopsy
+FAT4,P2581T,0.98,Xenograft
+FAT4,P2581T,1,Cell line
+CCNB1IP1,G229E,0.28,First biopsy
+CCNB1IP1,G229E,0.47,Second biopsy
+CCNB1IP1,G229E,0.45,Xenograft
+CCNB1IP1,G229E,0.44,Cell line
+NUP214,K356N,0.53,First biopsy
+NUP214,K356N,0.76,Second biopsy
+NUP214,K356N,0.99,Xenograft
+NUP214,K356N,1,Cell line
+ARNT,G315S,0.18,First biopsy
+ARNT,G315S,0.27,Second biopsy
+ARNT,G315S,0.31,Xenograft
+ARNT,G315S,0.29,Cell line
+KRAS,G12C,0.46,First biopsy
+KRAS,G12C,0.33,Second biopsy
+KRAS,G12C,0.39,Xenograft
+KRAS,G12C,0.32,Cell line
